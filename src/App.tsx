@@ -1,7 +1,7 @@
-import { N3 } from "./examples/N3";
+import { N4 } from "./examples/N4";
 
 function App() {
-  return <N3 />;
+  return <N4 />;
 }
 
 export default App;
